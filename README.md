@@ -1,2 +1,2 @@
 # PasswordManager
-A react project is used to manage URL, username, and password. In this project, the details are stored in local storage.
+A vite react project is used to manage URLs, usernames, and passwords. In this project, the details are stored in local storage.
